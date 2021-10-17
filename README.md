@@ -28,6 +28,7 @@ It consists of all the files needed to make the dialogue system work. A Unity Pa
         interactable?.Interact(this);
     }
    ```
+5. Mark your player with the tag "Player"
 
 ## How to get something to trigger a dialogue
 1. Add a box collider and mark it as trigger
