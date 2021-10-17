@@ -46,3 +46,8 @@ It consists of all the files needed to make the dialogue system work. A Unity Pa
    4 Put the events that will be invoked at the start of the dialogue  
    5 Put the events that will be invoked at the end of the dialogue  
    6 You can assign a Playable director here. It will be paused during the dialog.  
+   
+## How to interact
+E : interact with object
+SPACE : continue to next dialogue line
+X : Speed up the dialogue
