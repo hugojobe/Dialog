@@ -5,6 +5,7 @@ Dialog is a flexible dialogue system for Unity.
 It consists of all the files needed to make the dialogue system work. A Unity Package file is also included.
 
 ## How to use Dialog
+0. Fix all the errors if there are any
 1. Import the Unity Package file into Unity
 2. Add the prefab "Dialog Box" to the hierarchy </br>
   ![image](https://user-images.githubusercontent.com/41127485/137631852-bc0e4778-ed4e-4786-99eb-ef45bf792899.png)
