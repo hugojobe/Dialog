@@ -48,6 +48,6 @@ It consists of all the files needed to make the dialogue system work. A Unity Pa
    6 You can assign a Playable director here. It will be paused during the dialog.  
    
 ## How to interact
-E : interact with object
-SPACE : continue to next dialogue line
+E : interact with object  
+SPACE : continue to next dialogue line  
 X : Speed up the dialogue
